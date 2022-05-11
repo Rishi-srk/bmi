@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(201, 130, 67);
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.yes{
+  text-decoration-color:brown;
+}
+.heading{
+  background-color: rgb(224, 137, 75,0.5);
+}
+button{
+  align-items: center;
+  
+}
+label{
+    text-decoration-color: rgb(201, 94, 22);
+    font-weight: bold;
+    
+}
+.footer{
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  background-color: rgb(187, 187, 28);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.stars{
+  
+  width:50%;
+  margin:auto;
+}
+h4{
+  text-decoration-color: mintcream;
+}
+h1{
+  
+  text-decoration-color: saddlebrown;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
